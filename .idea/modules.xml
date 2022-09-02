@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MS1/MS1.iml" filepath="$PROJECT_DIR$/MS1/MS1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS2/MS2.iml" filepath="$PROJECT_DIR$/MS2/MS2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS3/MS3.iml" filepath="$PROJECT_DIR$/MS3/MS3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MicroServices.iml" filepath="$PROJECT_DIR$/.idea/MicroServices.iml" />
     </modules>
   </component>
