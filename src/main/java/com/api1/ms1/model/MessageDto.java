@@ -1,4 +1,4 @@
-package com.api1.ms1.model.dto;
+package com.api1.ms1.model;
 
 import lombok.Builder;
 import lombok.Data;

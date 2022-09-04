@@ -38,7 +38,7 @@ public class AppConfiguration {
         LocalSessionFactoryBean sessionFactory = new LocalSessionFactoryBean();
         sessionFactory.setDataSource(dataSource());
         sessionFactory.setPackagesToScan(
-                "com.api.Drone.repository");
+                "com.api1.ms1.repository");
         sessionFactory.setHibernateProperties(hibernateProperties());
 
         return sessionFactory;

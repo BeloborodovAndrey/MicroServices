@@ -1,7 +1,7 @@
 package com.api1.ms1.repository.entity;
 
 
-import com.api1.ms1.model.dto.MessageDto;
+import com.api1.ms1.model.MessageDto;
 import lombok.Data;
 
 import javax.persistence.*;
@@ -9,7 +9,7 @@ import java.util.Date;
 
 @Entity
 @Data
-@Table(name = "DRONE")
+@Table(name = "message")
 public class MessageEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

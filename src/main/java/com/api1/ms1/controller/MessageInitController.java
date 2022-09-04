@@ -1,6 +1,6 @@
 package com.api1.ms1.controller;
 
-import com.api1.ms1.service.MessageInitService;
+import com.api1.ms1.service.InitDestroyService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -13,16 +13,17 @@ import org.springframework.web.bind.annotation.RestController;
 @AllArgsConstructor
 public class MessageInitController {
 
-    private MessageInitService messageInitService;
+    private InitDestroyService initDestroyService;
 
     @GetMapping("/start")
     public ResponseEntity<Boolean> startMessaging() {
-        return new ResponseEntity<>(messageInitService.init(), HttpStatus.OK);
+        return new ResponseEntity<>(initDestroyService.init(), HttpStatus.OK);
     }
 
     @GetMapping("/stop")
     public ResponseEntity<Boolean> stopMessaging() {
-        messageInitService.stop();
+        initDestroyService.stop();
         return new ResponseEntity<>(HttpStatus.OK);
     }
+
 }
