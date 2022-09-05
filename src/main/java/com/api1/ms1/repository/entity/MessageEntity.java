@@ -11,8 +11,11 @@ import java.util.Date;
 @Data
 @Table(name = "message")
 public class MessageEntity {
+
+    private static final long serialVersionUID = -7049957706738879274L;
+
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.TABLE)
     private Integer id;
 
     @Column(name = "session_id", unique = true)
