@@ -1,0 +1,14 @@
+com\api1\ms1\service\DestroyService.class
+com\api1\ms1\service\InitDestroyService.class
+com\api1\ms1\repository\entity\MessageEntity.class
+com\api1\ms1\config\handlers\SessionHandlerForDestroy.class
+com\api1\ms1\controller\MessageInitController.class
+com\api1\ms1\model\MessageDto$MessageDtoBuilder.class
+com\api1\ms1\model\MessageDto.class
+com\api1\ms1\config\WebSocketClientConfig.class
+com\api1\ms1\Ms1Application.class
+com\api1\ms1\service\MessageService.class
+com\api1\ms1\config\AppConfiguration.class
+com\api1\ms1\repository\MessageRepository.class
+com\api1\ms1\config\handlers\SessionHandler.class
+com\api1\ms1\controller\MessageExchangeController.class

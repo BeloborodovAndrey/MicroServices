@@ -1,0 +1,13 @@
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\model\MessageDto.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\config\WebSocketClientConfig.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\config\handlers\SessionHandlerForDestroy.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\service\DestroyService.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\repository\MessageRepository.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\config\AppConfiguration.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\Ms1Application.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\service\InitDestroyService.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\service\MessageService.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\config\handlers\SessionHandler.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\controller\MessageExchangeController.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\controller\MessageInitController.java
+E:\JavaMentor\MicroServices\MS1\src\main\java\com\api1\ms1\repository\entity\MessageEntity.java
