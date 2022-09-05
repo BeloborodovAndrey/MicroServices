@@ -1,0 +1,34 @@
+version: "3"
+services:
+  ms1:
+    build: ./MS1
+    ports:
+      - "8081:8081"
+    networks:
+      - micro-service-network
+    depends_on:
+      - ms2
+      - ms3
+
+  ms2:
+    build: ./MS2
+    ports:
+      - "9000:9000"
+    networks:
+      - micro-service-network
+    depends_on:
+      - ms1
+      - ms3
+
+  ms3:
+    build: ./MS3
+    ports:
+      - "8085:8085"
+    networks:
+      - micro-service-network
+    depends_on:
+      - ms1
+      - ms2
+
+networks:
+  micro-service-network:
