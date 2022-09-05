@@ -1,0 +1,8 @@
+E:\JavaMentor\MicroServices\MS2\src\main\java\com\api2\ms2\service\DestroyService.java
+E:\JavaMentor\MicroServices\MS2\src\main\java\com\api2\ms2\config\KafkaProducerConfig.java
+E:\JavaMentor\MicroServices\MS2\src\main\java\com\api2\ms2\controller\MessageExchangeController.java
+E:\JavaMentor\MicroServices\MS2\src\main\java\com\api2\ms2\model\MessageDto.java
+E:\JavaMentor\MicroServices\MS2\src\main\java\com\api2\ms2\Ms2Application.java
+E:\JavaMentor\MicroServices\MS2\src\main\java\com\api2\ms2\service\ProducerKafkaService.java
+E:\JavaMentor\MicroServices\MS2\src\main\java\com\api2\ms2\config\KafkaTopicConfig.java
+E:\JavaMentor\MicroServices\MS2\src\main\java\com\api2\ms2\config\WebsocketConfiguration.java

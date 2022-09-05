@@ -1,0 +1,10 @@
+com\api2\ms2\model\MessageDto$MessageDtoBuilder.class
+com\api2\ms2\controller\MessageExchangeController.class
+com\api2\ms2\config\WebsocketConfiguration.class
+com\api2\ms2\service\ProducerKafkaService.class
+com\api2\ms2\service\DestroyService.class
+com\api2\ms2\config\KafkaProducerConfig.class
+com\api2\ms2\Ms2Application.class
+com\api2\ms2\service\ProducerKafkaService$1.class
+com\api2\ms2\config\KafkaTopicConfig.class
+com\api2\ms2\model\MessageDto.class
