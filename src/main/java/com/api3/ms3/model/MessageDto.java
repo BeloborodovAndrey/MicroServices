@@ -18,4 +18,11 @@ public class MessageDto {
     private Date ms3TimeStamp;
 
     private Date endTimeStamp;
+
+    public static MessageDto create() {
+        return MessageDto.builder()
+                .sessionId(1)
+                .ms1TimeStamp(new Date())
+                .build();
+    }
 }
