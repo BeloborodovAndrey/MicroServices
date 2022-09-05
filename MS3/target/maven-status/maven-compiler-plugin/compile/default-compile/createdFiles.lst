@@ -1,0 +1,7 @@
+com\api3\ms3\model\MessageDto$MessageDtoBuilder.class
+com\api3\ms3\service\DestroyService.class
+com\api3\ms3\Ms3Application.class
+com\api3\ms3\service\RestTemplateService.class
+com\api3\ms3\config\KafkaConsumerConfig.class
+com\api3\ms3\model\MessageDto.class
+com\api3\ms3\service\ConsumerKafkaService.class

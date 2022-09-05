@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.api3.ms3.Ms3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.134 s - in com.api3.ms3.Ms3ApplicationTests
